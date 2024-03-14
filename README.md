@@ -22,6 +22,7 @@ O aplicativo utiliza o Back4App, um banco de dados NoSQL, para realizar os cadas
 ### Como usar
 Clone este repositório
 ```
+git clone https://github.com/edwinbustillos/app-cepbusca-flutter.git
 ```
 
 Navegue até a pasta do projeto
