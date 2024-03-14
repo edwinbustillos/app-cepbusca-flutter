@@ -1,6 +1,6 @@
 import 'dart:convert';
 import 'package:http/http.dart' as http;
-import 'package:cepbusca/models/cep_model.dart';
+import 'package:cepbusca/models/cepModel.dart';
 
 class CepService {
   Future<Cep> fetchCep(String cep) async {
